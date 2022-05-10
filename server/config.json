@@ -1,0 +1,9 @@
+{
+    "rds_host": "database-550-project-3.cwpz9gew58sb.us-east-1.rds.amazonaws.com",
+    "rds_port": "3306",
+    "rds_user": "imdb_project",
+    "rds_password" : "ZOxL20ll*TsEUf",
+    "rds_db": "IMDB",
+    "server_host": "127.0.0.1",
+    "server_port":"8080"
+}
